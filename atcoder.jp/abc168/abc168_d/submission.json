@@ -1,0 +1,12 @@
+{
+	"id": 16287357,
+	"epoch_second": 1598628741,
+	"problem_id": "abc168_d",
+	"contest_id": "abc168",
+	"user_id": "tsuchiwww",
+	"language": "PyPy3 (7.3.0)",
+	"point": 400,
+	"length": 700,
+	"result": "AC",
+	"execution_time": 491
+}
